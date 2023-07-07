@@ -90,19 +90,17 @@ ChainFlow DAO opens up a world of possibilities by granting access to the entire
 
 
 # screencast link :
-
+# youtube 
+https://www.youtube.com/watch?v=1oUEtS4w36s
+https://www.youtube.com/watch?v=EfBEFGahWfw
+# github 
+https://github.com/samar19/ChainFlow
 
 # Technologies Used
 # smart contract 
 solidty 
 
 
-
-
-
-# To run this project locally, follow these steps.
-
-1. Clone the project locally, change into the directory, and install the dependencies:
 
 
 
