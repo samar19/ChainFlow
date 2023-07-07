@@ -41,6 +41,9 @@ The multitude of service providers and dependencies in this process creates subs
 
 
  # Solution
+
+ The problem addressed by ChainFlow 4337 is the inefficiency and user frustration associated with maximizing yield across different blockchain protocols in DeFi. Traditionally, users had to transfer their investment assets to various chains and individually engage with each protocol, leading to multiple transactions and additional gas fees. However, with the implementation of ChainFlow ERC-4337, this problem is resolved. ChainFlow enables users to unlock the highest yield and returns from multiple chains without the need to move their assets, resulting in a significantly more efficient and user-friendly experience.
+
  1-  ChainFlow DAO - Democratizing Asset Management with a DeFi Operating System
 
 To address the challenges in fund creation, ChainFlow DAO introduces a groundbreaking solution: ChainFlow Enhancing Cross-Chain DeFi Efficiency with ERC-4337. This innovative platform serves as a comprehensive Cross-Chain Operating System designed to facilitate the seamless creation of diversified DeFi products on-chain.
@@ -78,6 +81,10 @@ ChainFlow DAO opens up a world of possibilities by granting access to the entire
 
 8- Community Engagement and Governance: Building an active and engaged community around ChainFlow will be essential for its success. Implementing effective governance mechanisms, fostering transparent communication channels, and incentivizing community participation will help create a thriving ecosystem and ensure the platform's evolution aligns with the needs of its users.
 
+## Livepeer: Flowchart 
+
+1- ![Gameplay](https://github.com/samar19/pic-/blob/master/Screen%20Shot%202023-07-07%20at%209.51.51%20AM.png)
+
 
 # screencast link :
 
@@ -85,7 +92,7 @@ ChainFlow DAO opens up a world of possibilities by granting access to the entire
 # Technologies Used
 # smart contract 
 solidty 
-javascript 
+
 
 
 
