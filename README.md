@@ -13,6 +13,11 @@ ChainFlow aims to revolutionize cross-chain DeFi by enhancing efficiency with th
 With the implementation of ChainFlow  ERC-4337, ChainFlow addresses the key challenge of user experience. Our innovative solution empowers users to unlock the best yield and returns across multiple chains without the need to move their assets to different chains. By streamlining and optimizing the entire process, ChainFlow significantly improves efficiency and enhances the overall user-friendliness of cross-chain DeFi.
 
 
+## Flowchain: Flowchart 
+
+![Gameplay](https://github.com/samar19/pic-/blob/master/Screen%20Shot%202023-07-07%20at%209.51.51%20AM.png)
+
+
 # What I did for the ETH Research Grant Round4 2023
 
 The development journey of ChainFlow, focused on enhancing cross-chain DeFi efficiency with ERC-4337, encompassed a meticulous integration process between our robust asset management contract and the state-of-the-art Connext technology. Throughout this integration, we encountered various challenges that were swiftly addressed through seamless collaboration with a skilled Connext engineer. Together, we diligently traced and debugged any issues that arose, ultimately achieving a seamless integration of Connext with our asset management contract. This pivotal enhancement has significantly elevated the functionality and user experience, guaranteeing our users a frictionless and highly efficient DeFi journey.
@@ -81,9 +86,7 @@ ChainFlow DAO opens up a world of possibilities by granting access to the entire
 
 8- Community Engagement and Governance: Building an active and engaged community around ChainFlow will be essential for its success. Implementing effective governance mechanisms, fostering transparent communication channels, and incentivizing community participation will help create a thriving ecosystem and ensure the platform's evolution aligns with the needs of its users.
 
-## Livepeer: Flowchart 
 
-1- ![Gameplay](https://github.com/samar19/pic-/blob/master/Screen%20Shot%202023-07-07%20at%209.51.51%20AM.png)
 
 
 # screencast link :
