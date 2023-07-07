@@ -91,8 +91,8 @@ ChainFlow DAO opens up a world of possibilities by granting access to the entire
 
 # screencast link :
 # youtube 
-https://www.youtube.com/watch?v=1oUEtS4w36s
-https://www.youtube.com/watch?v=EfBEFGahWfw
+persentation link : https://www.youtube.com/watch?v=1oUEtS4w36s
+demo on remix : https://www.youtube.com/watch?v=EfBEFGahWfw
 # github 
 https://github.com/samar19/ChainFlow
 
